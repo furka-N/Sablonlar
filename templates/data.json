@@ -1,0 +1,23 @@
+{
+  "Worldmap": {
+    "name": "wm.png",
+    "x": -273,
+    "y": 1728,
+    "width": 1363,
+    "height": 635
+   },
+  "ODNLogo": {
+    "name": "ODNLogo.png",
+    "x": 1978,
+    "y": 3912,
+    "width": 117,
+    "height": 113
+   },
+  "cat": {
+   "name": "gatobr.png",
+   "x": 3022,
+   "y": 2922,
+   "width": 178,
+   "height": 88
+ }
+}
