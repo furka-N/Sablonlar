@@ -39,6 +39,12 @@
   "x": -3701,  "y": 3906,
   "width": 300, "height": 159
 }
+ 
+ ,"voidfix": {
+  "name": "void.png",
+  "x": 871,  "y": -556,
+  "width": 42, "height": 40
+}
 
 
 
