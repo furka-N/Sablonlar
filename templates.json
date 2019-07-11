@@ -40,10 +40,10 @@
   "width": 300, "height": 159
 }
  
- ,"voidfix": {
-  "name": "void.png",
-  "x": 871,  "y": -556,
-  "width": 42, "height": 40
+ ,"voidtr": {
+  "name": "voidtr.png",
+  "x": 701,  "y": -611,
+  "width": 106, "height": 106
 }
 
 
