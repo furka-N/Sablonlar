@@ -16,6 +16,12 @@
   "name": "main.png",
   "x": 860,  "y": -3795,
   "width": 558, "height": 179
+ }
+ 
+ ,"poland": {
+  "name": "podc.png",
+  "x": -988,  "y": -3461,
+  "width": 125, "height": 15
 }
  ,"uyyula": {
   "name": "template.png",
