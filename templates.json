@@ -27,6 +27,11 @@
   "x": -4096,  "y": 2895,
   "width": 101, "height": 63
 }
+ ,"lul2": {
+  "name": "boss.png",
+  "x": -3986,  "y": 2912,
+  "width": 50, "height": 43
+}
  ,"osmanli": {
   "name": "ottoman5.png",
   "x": -3395,  "y": 3041,
