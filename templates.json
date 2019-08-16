@@ -61,6 +61,11 @@
   "name": "indir.png",
   "x": 2261,  "y": -3785,
   "width": 100, "height": 100
+ }
+ ,"saving": {
+  "name": "agan.png",
+  "x": 2510,  "y": -984,
+  "width": 176, "height": 104
 }
  
   ,"fatih": {
