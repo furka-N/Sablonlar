@@ -1,16 +1,4 @@
 { "comment": "",
-
-"imza": {
-  "name": "imza2.png",
-  "x": -3068,  "y": 3832,
-  "width": 181, "height": 61
-}
-
-,"akp": {
-  "name": "akp2.png",
-  "x": -3098,  "y": 3930,
-  "width": 94, "height": 106
-}
  
  ,"fener": {
   "name": "main.png",
@@ -32,6 +20,11 @@
   "x": 1206,  "y": -618,
   "width": 199, "height": 113
  }
+ ,"Bayrak": {
+  "name": "tr_bayrak.png",
+  "x": -4096,  "y": 3295,
+  "width": 1307, "height": 801
+}
  ,"fransa": {
   "name": "fransa.png",
   "x": 921,  "y": -714,
