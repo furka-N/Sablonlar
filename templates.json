@@ -29,6 +29,11 @@
   "x": -355,  "y": -41,
   "width": 74, "height": 74
 }
+ ,"FURKANN": {
+  "name": "furkann.png",
+  "x": 492,  "y": -193,
+  "width": 166, "height": 99
+}
  
  ,"azee": {
   "name": "azee.png",
