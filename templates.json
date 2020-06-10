@@ -23,11 +23,13 @@
   "x": -355,  "y": -41,
   "width": 74, "height": 74
 }
+ 
  ,"sheepo": {
   "name": "sheepo.png",
   "x": 51,  "y": -622,
   "width": 128, "height": 128
 }
+ 
  ,"FURKANN": {
   "name": "furkann.png",
   "x": 492,  "y": -193,
