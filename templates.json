@@ -17,17 +17,16 @@
   "x": 1142,  "y": -211,
   "width": 222, "height": 230
 }
- 
-  ,"fenermerkez": {
-  "name": "fenermerkez.png",
-  "x": 1481,  "y": -505,
-  "width": 260, "height": 247
-}
 
  ,"uvefe": {
   "name": "uvefe.png",
   "x": -355,  "y": -41,
   "width": 74, "height": 74
+}
+ ,"sheepo": {
+  "name": "sheepo.png",
+  "x": 51,  "y": -622,
+  "width": 128, "height": 128
 }
  ,"FURKANN": {
   "name": "furkann.png",
