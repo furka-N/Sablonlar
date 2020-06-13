@@ -35,6 +35,11 @@
   "x": 492,  "y": -193,
   "width": 166, "height": 99
 }
+ ,"SHEPPOO": {
+  "name": "shepo2.png",
+  "x": 3384,  "y": 3241,
+  "width": 128, "height": 128
+}
  
  ,"azee": {
   "name": "azee.png",
