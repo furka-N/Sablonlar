@@ -17,7 +17,12 @@
   "x": 1142,  "y": -211,
   "width": 222, "height": 230
 }
-
+ 
+,"nazu": {
+  "name": "nazi.png",
+  "x": -131,  "y": -663,
+  "width": 345, "height": 205
+}
  ,"uvefe": {
   "name": "uvefe.png",
   "x": -355,  "y": -41,
