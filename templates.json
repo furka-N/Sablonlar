@@ -45,6 +45,12 @@
   "name": "shepo2.png",
   "x": 3384,  "y": 3241,
   "width": 128, "height": 128
+  }
+ 
+ ,"sina": {
+  "name": "sina.png",
+  "x": 2680,  "y": 3184,
+  "width": 83, "height": 22
 }
  
  ,"azee": {
