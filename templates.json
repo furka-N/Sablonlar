@@ -28,6 +28,11 @@
   "x": -355,  "y": -41,
   "width": 74, "height": 74
 }
+ ,"CHADTURK": {
+  "name": "turj.png",
+  "x": 937,  "y": -698,
+  "width": 88, "height": 172
+}
  
  ,"sheepo": {
   "name": "sheepo.png",
