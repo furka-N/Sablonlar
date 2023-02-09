@@ -1,9 +1,15 @@
 { "comment": "default public file",
 
-"Boxxy": {
+"merkez": {
   "name": "TrZoneMerkez.png",
   "x": 812,  "y": -505,
   "width": 377, "height": 279
+}
+
+"shep": {
+    "name": "shep.png",
+    "x": 919,  "y": -716,
+    "width": 287, "height": 208
 }
 
 }
