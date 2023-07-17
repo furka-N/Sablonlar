@@ -5,6 +5,7 @@
 // @description  Solve PixelPlanet Captcha automatically
 // @match        https://pixelplanet.fun/
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/furka-N/Sablonlar/master/deneme123.js
 // ==/UserScript==
 
 (function() {
